@@ -1,4 +1,3 @@
-## nodejs-fullstack-examsproject
+## Node.js examsproject
 
->Node.js exams project for an elective course
-
+>Node.js fullstack application: exams project for elective course
